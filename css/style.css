@@ -19,7 +19,7 @@ html, body {
 header {
   height: 300px;
   /*Change the width to 100%; - so it is 100% of its parent container (the wrapper) */
-  width: 960px;
+  width: 100%;
   background: #000;
 }
 
